@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Rock_paper_scissors
+Comment=My custom app
+Exec=rock_paper_scissor
+Icon=/home/pro123/Pictures/rps.png
+Terminal=true
